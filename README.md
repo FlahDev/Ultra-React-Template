@@ -25,3 +25,7 @@ A default template to start code in React
 ### Start the server
 
 		$ yarn start
+
+### Remove git refs
+
+		$ rm -rf .git
